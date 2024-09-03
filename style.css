@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    background: rgb(0,0,0);
+    background: radial-gradient(circle, rgb(0, 255, 0) 0%, rgb(34, 34, 34) 100%);
+}
+marquee{
+    color:rgb(0, 255, 0);
+    font-family: papyrus;
+    font-weight: 900;
+}
+h1{
+   color:rgb(0, 255, 0);
+   font-family: papyrus;
+   font-weight: 900;
+   text-align: center  ;
+}
+p{
+    color: rgb(0, 255, 0);
+    font-family: papyrus;
+    font-weight: 900;
+}
+ul{
+    color: rgb(0, 255, 0);
+    font-family: papyrus;
+    font-weight: 900;
+}
